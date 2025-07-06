@@ -1,0 +1,19 @@
+
+
+let number = 40;
+let mark1 = 50;
+let mark2 = 80;
+
+==============Array============
+1. 1D Array (Index Array)
+2. 2D Array
+3. Associative Array (Object)
+
+====1D Array (Index Array)======
+
+let indexArray = [90, 68, 89, 100, 43, 56, 67, 90, 45, 76];
+let indexArray2 = ['aksgdh', 'skdhu'];
+
+===Associative Array===
+
+let student = {name:"Rahim", age:20, blood:"O+"}
